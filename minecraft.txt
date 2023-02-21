@@ -126,3 +126,5 @@ vanillaimproved.csrv.pl
 wredotacraft.mine.game
 xcraft.maxc.pl
 zcraft.pl
+tubnet.gg
+craftcube.pl
