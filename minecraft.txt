@@ -1,4 +1,6 @@
-#minecraft server list
+# Minecraft Server List
+# MIT License Copyright (c) 2023 Volodymyr Shumara
+
 4fun4you.pl
 acmc.pl
 amk.tasrv.com
